@@ -3,3 +3,4 @@ google-genai
 python-dotenv==1.0.1
 tldextract==5.1.2
 flask-limiter==3.8.0
+gunicorn
